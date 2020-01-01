@@ -1,0 +1,7 @@
+tim@gmail.com;1234;tim;2019-03-02
+hi@live.com;hello;hi;2019-07-19
+frank@gmail.com;groot;frank;2019-07-20
+iamgroot@yahoo.com;iamgroot;groot;2019-07-21
+jjdjd@kfkdk.com;erfer;jo;2019-07-24
+imabear@yahoo.com;BEARRRR;hi;2019-07-24
+hiimemma@yahoo.com;EMMAAAA;emma;2019-07-24
